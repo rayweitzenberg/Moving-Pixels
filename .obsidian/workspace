@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "a2277a092ad4e0c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c3839d21a16c64",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Session Notes/2022.06.13 21.27 - Post Tribeca Immersive.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6d2c5de4b2f117a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05eec4ed61dae1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a28f55ec20f9f37c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee497743819cec36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7facc29ecd8ae766",
+    "type": "split",
+    "children": [
+      {
+        "id": "e380f0620ab9de42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b306e9a0e872af3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/2022.06.13 21.27 - Post Tribeca Immersive.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c2c3839d21a16c64",
+  "lastOpenFiles": [
+    "Session Notes/2022.06.13 21.27 - Post Tribeca Immersive.md"
+  ]
+}

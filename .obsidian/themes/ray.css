@@ -1,0 +1,18 @@
+.theme-dark.is-frameless {
+    background-color: #020202;
+}
+
+iframe {
+    width:100%;
+    height:500px;
+}
+
+iframe.trello {
+    height: 700px;
+}
+
+.twitter-tweet {
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 20px;
+}
