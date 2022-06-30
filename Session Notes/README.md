@@ -5,3 +5,8 @@
 # [2022.06.29 - Install + Setup Environment](./2022.06.29%20-%20Install%20+%20Setup%20Environment.md)
 
 
+
+## [2022.06.29 - Inspiration Explorations](./2022.06.29%20-%20Inspiration%20Explorations.md)
+
+
+
