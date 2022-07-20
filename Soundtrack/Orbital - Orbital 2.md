@@ -5,7 +5,7 @@
 # Orbital
 ## Orbital 2
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1JYyYFJSYrXMHLe7Dz1B3W?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+![](../images/Pasted%20image%2020220720154428.png)
 
 
 https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W?si=HrplD2E2STiAVgLfpdS0BQ
