@@ -10,6 +10,8 @@ https://github.com/rayweitzenberg
 
 ## [2022.07.20 - Vegas Baby](2022.07.20%20-%20Vegas%20Baby.md)
 
+Bit more foundation laying
+
 Overview of the learning platforms and directing our focus to the one that seems to make the most sense
 
 
